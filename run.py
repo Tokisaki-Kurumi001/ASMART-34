@@ -1,2 +1,2 @@
 import os
-os.system('python fn_18351015.py')unctio
+os.system('python function_18351015.py')
